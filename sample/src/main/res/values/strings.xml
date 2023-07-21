@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDF VIEWER</string>
+    <string name="pick_file">Select file</string>
+    <string name="toast_pick_file_error">Unable to select file. Check status of file manager.</string>
+</resources>
